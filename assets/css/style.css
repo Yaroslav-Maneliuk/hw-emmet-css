@@ -4,6 +4,7 @@
   color: #e7f5dc;
   background-color: #64ac8f;
   text-align: center;
+  text-transform: capitalize;
 }
 .menu{
   font-size: 12px;
@@ -17,4 +18,5 @@
 .art-heading{
   font-size: 14px;
   text-align: center;
+  text-transform: uppercase;
 }
